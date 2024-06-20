@@ -1,0 +1,55 @@
+{
+  "user": [
+    {
+      "username": "john123",
+      "password": "pass123",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpvaG4xMjMifQ.-EXAMPLE_TOKEN_1"
+    },
+    {
+      "username": "jane456",
+      "password": "pass456",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImphbmU0NTYifQ.-EXAMPLE_TOKEN_2"
+    },
+    {
+      "username": "sam789",
+      "password": "pass789",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNhbTc4OSJ9.-EXAMPLE_TOKEN_3"
+    }
+  ],
+  "admin": [
+    {
+      "username": "xue123",
+      "password": "pass123",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpvaG4xMjMifQ.-EXAMPLE_TOKEN_1"
+    }
+  ],
+  "pages": [
+    {
+      "id": 1,
+      "name": "张三",
+      "gender": 0,
+      "carId": "粤A12345",
+      "beginTime": "2024-05-01 12:12:30",
+      "endTime": "2024-05-08 12:12:30",
+      "status": "已归还"
+    },
+    {
+      "id": 2,
+      "name": "李四",
+      "gender": 1,
+      "carId": "粤B67890",
+      "beginTime": "2024-05-03 10:30:00",
+      "endTime": "2024-05-10 10:30:00",
+      "status": "已归还"
+    },
+    {
+      "id": 3,
+      "name": "王五",
+      "gender": 0,
+      "carId": "粤C24680",
+      "beginTime": "2024-05-06 15:45:20",
+      "endTime": "2024-05-13 15:45:20",
+      "status": "已归还"
+    }
+  ]
+}

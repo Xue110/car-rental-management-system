@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "username": "john123",
+      "password": "pass123",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpvaG4xMjMifQ.-EXAMPLE_TOKEN_1"
+    },
+    {
+      "username": "jane456",
+      "password": "pass456",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImphbmU0NTYifQ.-EXAMPLE_TOKEN_2"
+    },
+    {
+      "username": "sam789",
+      "password": "pass789",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNhbTc4OSJ9.-EXAMPLE_TOKEN_3"
+    }
+  ],
+  "admin": [
+    {
+      "username": "xue123",
+      "password": "pass123",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpvaG4xMjMifQ.-EXAMPLE_TOKEN_1"
+    }
+  ]
+}
